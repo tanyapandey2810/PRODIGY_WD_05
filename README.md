@@ -4,4 +4,4 @@ Use the app anytime by using url (windywinksdemo.netlify.app)
 
 
 
-![Uploading WindyWinks.png…]()
+![Alt text](weather-app/WindyWinks.png)
